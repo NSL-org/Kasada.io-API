@@ -5,7 +5,7 @@
 
 <h3>Tuto <a href="https://discord.gg/hktVzrff54">Here</a></h1>
 
-<h2">Preview</h3>
+<h2>Preview</h3>
 
 <p align="center">Both<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744103831801856/image.png"></p>
 <p align="center">x-kpsdk-cd<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744745656799272/image.png"></p>
@@ -32,3 +32,7 @@ Questions ?
 ```
 Join discord server and ask me...
 ```
+
+📌 Disclaimer 📌
+
+Please use this program only for educational purposes. It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
