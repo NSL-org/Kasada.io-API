@@ -2,7 +2,7 @@
 
 <h4>Discord Server: <a href="https://discord.gg/hktVzrff54">discord.gg/hktVzrff54</a></h4> 
 
-<h2>Preview</h2>
+<h2>Preview</h2> 
 
 <p align="center">Both<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744103831801856/image.png"></p>
 <p align="center">x-kpsdk-cd<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744745656799272/image.png"></p>
