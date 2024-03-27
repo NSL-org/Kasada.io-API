@@ -1,12 +1,24 @@
 <h1>Kasada.io reverse engineering</h1>
 
-<h4>Discord Server: <a href="https://discord.gg/FuMr9vf7fy">discord.gg/FuMr9vf7fy</a></h4> 
+<h4>Discord Server: <a href="https://discord.gg/FuMr9vf7fy]">discord.gg/FuMr9vf7fy</a></h4> 
 
-<h2>Preview</h2> 
+<h2>Preview</h2>
 
 <p align="center">Both<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744103831801856/image.png"></p>
 <p align="center">x-kpsdk-cd<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744745656799272/image.png"></p>
 <p align="center">x-kpsdk-ct<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744590979239966/image.png"></p>
+
+###
+
+Working Sites:
+- Twitch
+
+Sites to add:
+
+- Sony
+- Kick
+- Sephora
+- Vercel
 
 ###
 
@@ -16,16 +28,16 @@ End Points:
 - CT (x-kpsdk-ct & x-kpsdk-st)
 ```
 
-
-
-How to run:
+Features:
 ```
-Soon...
+Fast
+Easy to config & run
+Create accounts easily without getting flagged...
 ```
 
 Questions ?
 ```
-Join discord server and ask me...
+Contact me on discord (link above)
 ```
 
 📌 Disclaimer 📌
